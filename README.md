@@ -58,10 +58,12 @@ Please cite the following paper if you use this data:
 ```
 @article{giorgi2023author,
   title={Author as Character and Narrator: Deconstructing Personal Narratives from the r/AmITheAsshole Reddit Community},
-  author={Giorgi, Salvatore and Zhao, Ke and Feng, Alexander H and Martin, Lara J},
+  author={Giorgi, Salvatore and Zhao, Ke and Feng, Alexander H. and Martin, Lara J.},
   journal={Proceedings of the International AAAI Conference on Web and Social Media},
-  year={2023}
+  year={2023},
+  month={6},
+  address={Limassol, Cyprus},
+  publisher={AAAI}
 }
-
 ```
 
