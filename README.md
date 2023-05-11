@@ -2,7 +2,10 @@
 
 This is the repository for our paper [Author as Character and Narrator: Deconstructing Personal Narratives from the r/AmITheAsshole Reddit Community](https://sjgiorgi.github.io/publications/giorgi2023author.pdf)
 
-![flow](assets/aita_flow_diagram.png | width=100)
+
+<img src="https://raw.githubusercontent.com/sjgiorgi/moral_judgements_in_aita/master/assets/aita_flow_diagram.png" width="100">
+
+
 
 ## Data
 
