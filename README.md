@@ -60,6 +60,7 @@ Please cite the following paper if you use this data:
   title={Author as Character and Narrator: Deconstructing Personal Narratives from the r/AmITheAsshole Reddit Community},
   author={Giorgi, Salvatore and Zhao, Ke and Feng, Alexander H. and Martin, Lara J.},
   journal={Proceedings of the International AAAI Conference on Web and Social Media},
+  url={https://ojs.aaai.org/index.php/ICWSM/article/view/22141},
   year={2023},
   month={6},
   address={Limassol, Cyprus},
